@@ -19,6 +19,13 @@ h4{
 #one{
 	text-align: left;
 }
+.container {
+    width: 600px;
+    margin: 0px auto;
+}
+#aboutme{
+    text-align: center;
+}
 input {
   border: 0;
 }
