@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<!-- comment -->
+<h1> JULIA MORNEAU </h1>
+<div id="header">
+	<h4>Wheaton College, MA</h4></div>
+<!--<div id = "one">
+	<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiuaGHJfVoWsDpJRYEW1MPaQFr_vAYzRWsEGvV1FX0unTuqN-pkw" /></a> -->
+</div>
+<div class = "container">
+	<div id = "aboutme">
+		<h2>About Me</h2>
+		<a href = "http://www.google.com">
+		<img src = "http://scontent-b-iad.xx.fbcdn.net/hphotos-prn2/t1/1457653_10201140912861809_683398183_n.jpg" width = "25%" height = "25%" alt = "FUCK ME"></img></a>
+	</div>
+</div>
+</body>
