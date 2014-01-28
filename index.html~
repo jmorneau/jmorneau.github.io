@@ -10,11 +10,33 @@
 <!--<div id = "one">
 	<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiuaGHJfVoWsDpJRYEW1MPaQFr_vAYzRWsEGvV1FX0unTuqN-pkw" /></a> -->
 </div>
+<div id="header-wrapper">
+
+	<div class ="containter">
+		<div id="banner" class="container">
+			<div class="image-style"><img src="images/test.jpg" alt="" /></div>
+	</div>
+</div>
+</div>
 <div class = "container">
 	<div id = "aboutme">
-		<h2>About Me</h2>
+		<h3>About Me</h3>
 		<a href = "http://www.google.com">
 		<img src = "http://scontent-b-iad.xx.fbcdn.net/hphotos-prn2/t1/1457653_10201140912861809_683398183_n.jpg" width = "25%" height = "25%" alt = "FUCK ME"></img></a>
 	</div>
+	<div id = "resume">
+		<h3>My Resume</h3>
+		<a href = "http://www.google.com">
+			<img src="http://scontent-b-iad.xx.fbcdn.net/hphotos-prn2/t1/1457653_10201140912861809_683398183_n.jpg" width = "25%" height = "25%" alt= "ugh"></img></a> </div>
+	<div id = "github">
+		<h3>Git Hub</h3>
+		<a href = "https://github.com/jmorneau">
+			<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3LMMojp1i0dqQMvq_MslD1buHNoKGc9NJyOupwjXVJUVaGr3A" width = "25%" height = "25%" alt= "Fuck This Shit"></img></a>
+	</div>
+
+</div>
+<div id="footer">
+	<p>2013 - LyonTracks - Wheaton College Future Interactions</p>
 </div>
 </body>
+
