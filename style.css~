@@ -20,31 +20,11 @@ h4{
 	text-align: left;
 }
 .container {
+    width: 600px;
     margin: 0px auto;
-    display: inline-block;
-    /*float: left;*/
-    flex-direction: row;
-    justify-content: center;
-    align-items: flex-start;
 }
-
-#banner {
-	overflow: hidden;
-	height: 400px;
-}
-
-#banner .image-style {
-	border: 15px solid #F4F4F4;
-}
-
 #aboutme{
-    float: center;
-}
-#resume{
-  /*  float: left;*/
-}
-#github{
-    /*float: right;*/
+    text-align: center;
 }
 input {
   border: 0;
