@@ -26,11 +26,14 @@ h4{
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
+    background: white;
+    width: 70%;
 }
+
 
 #banner {
 	overflow: hidden;
-	height: 400px;
+	height: 315px;
 }
 
 #banner .image-style {

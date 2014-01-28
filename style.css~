@@ -26,11 +26,14 @@ h4{
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
+    background: white;
+    width: 65%;
 }
+
 
 #banner {
 	overflow: hidden;
-	height: 400px;
+	height: 315px;
 }
 
 #banner .image-style {
@@ -66,5 +69,22 @@ input {
 	text-shadow: 1px 2px 0px #861F40;
 	font-size: 36px;
 	color: #FFFFFF;
+}
+#footer {
+	height: 100px;
+	margin: 0 auto;
+	padding: 50px 0px 0px 0px;
+}
+
+#footer p {
+	margin: 0;
+	padding-top: 10px;
+	line-height: normal;
+	text-align: center;
+	color: #C76485;
+}
+
+#footer a {
+	color: #C76485;
 }
 </style>
