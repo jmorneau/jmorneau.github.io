@@ -31,12 +31,12 @@
 	<div id = "github">
 		<h3>Git Hub</h3>
 		<a href = "https://github.com/jmorneau">
-			<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3LMMojp1i0dqQMvq_MslD1buHNoKGc9NJyOupwjXVJUVaGr3A" width = "25%" height = "25%" alt= "Fuck This Shit"></img></a>
+			<img src="images/github.jpg" width = "75%" height = "75%" alt= "Fuck This Shit"></img></a>
 	</div>
 
 </div>
 <div id="footer">
-	<p>2013 - LyonTracks - Wheaton College Future Interactions</p>
+	<p>2014 - Julia M Morneau - Wheaton College, MA</p>
 </div>
 </body>
 
